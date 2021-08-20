@@ -1,2 +1,2 @@
 #!/bin/bash
-cd '/explicit/path/to/script'
+cd -
